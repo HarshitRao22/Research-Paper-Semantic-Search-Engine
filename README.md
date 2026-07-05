@@ -1,6 +1,5 @@
 # Research-Paper-Semantic-Search-Engine
 # 📚 Research Paper Semantic Search Engine
-# 📚 Research Paper Semantic Search Engine
 
 <p align="center">
   <img src="screenshots/cover.png" width="900">
