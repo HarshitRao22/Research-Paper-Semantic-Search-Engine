@@ -1,4 +1,3 @@
-# Research-Paper-Semantic-Search-Engine
 # 📚 Research Paper Semantic Search Engine
 
 <p align="center">
