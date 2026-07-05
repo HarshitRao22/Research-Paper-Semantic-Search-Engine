@@ -2,7 +2,7 @@
 # 📚 Research Paper Semantic Search Engine
 
 <p align="center">
-  <img src="screenshots/cover.png" width="900">
+  <img src="Research Paper Semantic Search Engine/ScreenShots/cover.png" width="900">
 </p>
 
 Finding the right research paper isn't always easy. Many relevant papers don't contain the exact keywords we search for, which means traditional keyword-based search can miss useful results.
@@ -97,7 +97,6 @@ Some ideas I plan to work on in future versions:
 ├── Research_Paper_Semantic_Search.ipynb
 ├── paper_embeddings.npy
 ├── paper_faiss.index
-├── requirements.txt
 ├── README.md
 └── screenshots/
 ```
